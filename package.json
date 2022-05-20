@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.1",
+    "heroku": "^7.60.2",
     "telegraf": "^4.8.2",
     "telegram-keyboard": "^2.3.0"
   },
